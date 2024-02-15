@@ -22,7 +22,7 @@ To install and run this project locally, follow these steps:
 
 Clone the repository:
 ```bash
-  git clone https://github.com/Prathamaryaaa/SMS_Classifier.git
+git clone https://github.com/Prathamaryaaa/SMS_Classifier.git
 ```
 
 Navigate to the project directory:
